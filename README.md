@@ -46,3 +46,11 @@ A skill analisa o material, lista os blocos temáticos identificados, confirma a
 ## Licença
 
 MIT
+
+---
+
+## Créditos
+
+Criado por [Erick Fonseca](https://www.instagram.com/erick.fonsec/) · [EFS Studio](https://efsstudio.com.br).
+
+Licença MIT — use, modifique e distribua livremente.
